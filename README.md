@@ -1,4 +1,4 @@
-# task-it-easy
+# Task-IT-easy
 #### A simple Task Scheduler
 There isn't much here yet, but hopefully this repository will fill up soon.
 
